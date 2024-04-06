@@ -61,7 +61,7 @@ body {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   font-size: 112%;
-  font-family: "Lucida Console", "Courier New", "monospace";
+  font-family: "Roboto", "Montserrat", sans-serif;
 }
 
 div.sticky {
@@ -71,9 +71,9 @@ div.sticky {
   padding: 5px;
   background-color: #b214d1;
   border: 2px solid rgb(0, 0, 0);
-  font-family: "Lucida Console", "Courier New", "monospace";
+  font-family: "Roboto", "Montserrat", sans-serif;
 }
 
 .ins {
-  font-family: "Lucida Console", "Courier New", "monospace";
+  font-family: "Roboto", "Montserrat", sans-serif;
 }
